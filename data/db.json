@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "as nemoku nieko daryti aaaa",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "2c3d",
+      "title": "Design new website",
+      "details": "need to design a new",
+      "complete": false
+    }
+  ]
+}
